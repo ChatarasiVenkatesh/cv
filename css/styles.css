@@ -1,0 +1,24 @@
+body{
+  background-color:#2BC4AD;
+}
+h1,h3{
+  color:#EAF6F6;
+}
+hr{
+
+  border-style:dotted none none;
+  border-width:4px;
+  border-color:lightgrey;
+  width:5%;
+}
+footer{
+  background-color:#000000;
+  color:#ffffff;
+  width:100%;
+}
+.normal{
+  border-style:solid;
+  border-color:#000000;
+  width:100%;
+
+}
